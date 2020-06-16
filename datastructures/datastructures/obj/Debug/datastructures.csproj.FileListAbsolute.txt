@@ -1,0 +1,12 @@
+C:\Users\katerina\Desktop\datastructures\datastructures\bin\Debug\datastructures.exe.config
+C:\Users\katerina\Desktop\datastructures\datastructures\obj\Debug\datastructures.csprojResolveAssemblyReference.cache
+C:\Users\katerina\Desktop\datastructures\datastructures\bin\Debug\datastructures.exe
+C:\Users\katerina\Desktop\datastructures\datastructures\bin\Debug\datastructures.pdb
+C:\Users\katerina\Desktop\datastructures\datastructures\obj\Debug\datastructures.exe
+C:\Users\katerina\Desktop\datastructures\datastructures\obj\Debug\datastructures.pdb
+C:\Users\katerina\Desktop\data structers assignment\datastructures\datastructures\bin\Debug\datastructures.exe.config
+C:\Users\katerina\Desktop\data structers assignment\datastructures\datastructures\obj\Debug\datastructures.exe
+C:\Users\katerina\Desktop\data structers assignment\datastructures\datastructures\obj\Debug\datastructures.pdb
+C:\Users\katerina\Desktop\data structers assignment\6248\datastructures\datastructures\bin\Debug\datastructures.exe.config
+C:\Users\katerina\Desktop\data structers assignment\6248\datastructures\datastructures\obj\Debug\datastructures.exe
+C:\Users\katerina\Desktop\data structers assignment\6248\datastructures\datastructures\obj\Debug\datastructures.pdb
